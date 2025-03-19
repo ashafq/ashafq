@@ -8,7 +8,7 @@ development, exploring new programming languages, operating system kernel, and
 high‐performance computing. Enjoys using libre and open‐source technologies and
 occasionally takes part in their development.
 
-<iframe src="https://github.com/sponsors/ashafq/card" title="Sponsor ashafq" height="225" width="600" style="border: 0;"></iframe>
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ashafq)
 
 ## 🔭 Some of Ayan's work include:
 1. [Ardour](https://ardour.org/): A libre Digital Audio Workstation (DAW),
