@@ -19,7 +19,7 @@ occasionally takes part in their development.
    
 2. [GNU Compiler Collection, GCC](https://gcc.gnu.org/): Contributed to ARM and AArch64 enhancements, including intrinsic optimizations in arm_acle.h.
 
-3. [A57eq.lv2](https://github.com/ashafq/a5eq.lv2/): This an open-source LV2
+3. [A5eq.lv2](https://github.com/ashafq/a5eq.lv2/): This an open-source LV2
    plugin featuring a high-performance 5-band equalizer, including a Low Shelf,
    three Peaking filters, and a High Shelf. Designed to assist both amateur and
    professional audio engineers, it supports precise sound sculpting across
